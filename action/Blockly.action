@@ -1,0 +1,9 @@
+# goal
+string command
+---
+# result
+bool success
+string description
+---
+# feedback
+string status
