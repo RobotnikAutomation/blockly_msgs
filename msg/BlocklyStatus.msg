@@ -1,2 +1,2 @@
 BlocklyInfo[] status
-string[] files
+BlocklyInfo[] files
